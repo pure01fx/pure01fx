@@ -16,6 +16,8 @@ Frequent use:
 
 没有代码量统计的原因是大部分代码都在组织（或者是**暂时**没有公开的项目）里面，统计结果和个人实际严重不符（
 
+为什么不顺便看看[HuiDesktop](https://github.com/HuiDesktop)呢（
+
 <!--
 **pure01fx/pure01fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
